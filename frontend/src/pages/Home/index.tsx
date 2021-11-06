@@ -16,7 +16,9 @@ const Home = () => {
 					This application consists of displaying a dashboard from sources
 					provided by a backend built with Spring Boot.
 				</p>
-				<Link to='/dashboard' className="btn btn-primary btn-lg">Access dashboard</Link>
+				<Link to='/dashboard' className='btn btn-primary btn-lg'>
+					Access dashboard
+				</Link>
 			</div>
 			<Footer />
 		</>
